@@ -41,9 +41,12 @@ MVP(최소 기능 제품) 완성까지 7일이 소요되었습니다. 하루 종
 ## 5. 앞으로의 계획
 
 이 프로젝트는 지속적으로 개발됩니다.<br>
-Google 검색과 Google Analytics 데이터를 분석하여, 필요에 따라 기능을 개선할 계획입니다.<br>
+Google 검색 결과와 Google Analytics 데이터를 분석하여, 필요에 따라 기능을 개선할 계획입니다.<br>
 또한, 다국어 지원(러시아어, 폴란드어)과 외국인을 대상으로 한 네이버 카페 운영도 함께 진행하고 있습니다.
 
 ![Screenshot 2024-09-07 at 5 43 56 AM](https://github.com/user-attachments/assets/1839c82c-80b5-4b3a-a13a-84ee3c4532a2)
 
 ![Screenshot 2024-09-07 at 5 44 11 AM](https://github.com/user-attachments/assets/59c8318b-d303-4a47-9aae-3d39259e0537)
+
+- Google Search Console 등록 완료, Google Analytics와 Vercel Analytics 적용 완료
+- Infinite Scroll 적용(2024-09-17)
